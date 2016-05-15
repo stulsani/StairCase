@@ -4,3 +4,4 @@ compiler:
 script:
 - g++ -o staircase staircase.cpp
 - ./staircase
+- 10
